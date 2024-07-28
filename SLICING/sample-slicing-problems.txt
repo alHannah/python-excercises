@@ -1,0 +1,40 @@
+Problem 1: Basic Slicing
+Given the list numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], perform the following operations and print the results:
+Extract the first three elements.
+Extract the last four elements.
+Extract the elements from index 3 to index 6.
+Extract every second element from the list.
+Extract the elements from index 2 to the end.
+
+
+Problem 2: Advanced Slicing
+Given the same list numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], perform the following operations and print the results:
+Extract every third element starting from the beginning.
+Extract the elements in reverse order.
+Extract every second element in reverse order.
+Extract the elements from index 1 to index 7 with a step of 2.
+Extract the last five elements in reverse order.
+
+
+Problem 3: Manipulating Subsets
+Given the list numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], perform the following operations:
+Replace the middle four elements with [100, 200, 300, 400].
+Remove the first three elements.
+Insert [11, 12, 13] after the fifth element.
+Replace every second element with -1.
+
+
+Problem 4: Slicing with Strings
+Given the string text = "Hello, World!", perform the following operations:
+Extract the first five characters.
+Extract the last six characters.
+Extract every second character.
+Extract the characters from index 2 to index 8.
+Reverse the string.
+
+
+Problem 5: Combining Slicing with List Comprehensions
+Given the list numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], perform the following operations using list comprehensions and slicing:
+Create a new list containing only the even-indexed elements.
+Create a new list where each element is squared.
+Create a new list where each element is doubled if it is at an odd index.
